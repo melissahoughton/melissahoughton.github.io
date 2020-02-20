@@ -8,6 +8,7 @@
     <div class="main">
       <div class="header__title">
         <div class="header__brand">
+          {%- assign _author = site.data.authors[include.article.author] | default: site.author -%}
           {%- if _author.avatar -%}
             {%- if _author.url -%}
             <a href="{{ _author.url }}" class="item__image">
