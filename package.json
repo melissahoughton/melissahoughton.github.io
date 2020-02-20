@@ -1,21 +1,18 @@
 {
-  "name": "jekyll-text-theme",
-  "version": "2.2.6",
-  "author": "Tian Qi",
+  "name": "melissa-houghton-website",
+  "version": "1.0",
+  "author": "Melissa Houghton",
   "license": "MIT",
   "keywords": [
     "jekyll",
     "jekyll-theme",
     "jekyll-template"
   ],
-  "homepage": "https://github.com/kitian616/jekyll-TeXt-theme",
-  "description": "A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.",
+  "homepage": "https://github.com/",
+  "description": "A personal website and tech blog",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kitian616/jekyll-TeXt-theme.git"
-  },
-  "bugs": {
-    "url": "https://github.com/kitian616/jekyll-TeXt-theme/issues"
+    "url": "git+https://github.com/melissahoughton/melissahoughton.git.io"
   },
   "scripts": {
     "build": "cross-env JEKYLL_ENV=production bundle exec jekyll build",
