@@ -16,13 +16,13 @@
 
 ## => Site Settings
 ##############################
-text_skin: dark # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
-highlight_theme: tomorrow-night # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : # the base hostname & protocol for your site e.g. https://www.someone.com
+text_skin: wine-teal # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
+highlight_theme: tomorrow-night-bright # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
+url     : https://melissahoughton.dev # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
 title   : Melissa Houghton
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+  Melissa Houghton's tech blog and more
 
 
 ## => Language and Timezone
@@ -51,6 +51,7 @@ author:
   linkedin  : melissa-houghton # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
   github    : melissahoughton # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
+  notist    : melissahoughton # https://noti.st/user_name
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
