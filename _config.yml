@@ -36,7 +36,7 @@ timezone: #Australia/Melbourne # see https://en.wikipedia.org/wiki/List_of_tz_da
 author:
   type      : # "person" (default), "organization"
   name      : Melissa Houghton
-  url       :
+  url       : https://melissahoughton.dev
   avatar    : /assets/images/headshot.jpg # path or url of avatar image (square)
   bio       : Senior Developer | Community Engager | Leader
   email     : melissahoughton@outlook.com
