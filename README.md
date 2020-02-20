@@ -1,5 +1,1 @@
-## License
-
-GNU General Public License v3.0
-
-## Donate
+Static website hosted on [melissahoughton.dev](https://melissahoughton.dev)

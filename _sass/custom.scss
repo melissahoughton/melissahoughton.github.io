@@ -1,0 +1,20 @@
+/* start custom scss snippet */
+.hero.about {
+  background-image: url("/assets/images/dddperth.jpg");
+  min-height: 20rem;
+  background-position: 50% 40%;
+
+  .hero__content {
+    h1 {
+      color: $dark-teal;
+      font-size: 90px;
+      border: none;
+      text-shadow: 3px -1px 6px $off-white;
+    }
+  }
+}
+
+
+
+
+/* end custom scss snippet */

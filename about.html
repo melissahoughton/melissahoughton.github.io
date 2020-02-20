@@ -1,0 +1,41 @@
+---
+layout: article
+titles: About
+key: page-about
+show_author_profile: false
+---
+
+<div class="hero about hero--dark">
+    <div class="hero__content about">
+        <h1>About</h1>
+    </div>
+</div>
+
+{%- include bio.html -%}
+
+<span class="horizontal-rules"></span>
+<br/>
+
+<div class="menu menu--center secondary">
+    {%- if page.author -%}
+        {%- assign _author = site.data.authors[page.author] -%}
+    {%- else -%}
+        {%- assign _author = site.author -%}
+    {%- endif -%}
+
+    {%- if _author.avatar -%}
+        {%- if _author.url -%}
+            <a href="{{ _author.url }}" class="item__image">
+            {%- endif -%}
+            {%- include snippets/get-nav-url.html path=_author.avatar -%}
+            {%- assign _author_avatar = __return -%}
+            <img class="author-profile__headshot" itemprop="image" src="{{ _author_avatar }}"/>
+            {%- if _author.url -%}
+            </a>
+        {%- endif -%}
+    {%- endif -%}
+
+    {%- include author-links-vertical.html author=_author -%}
+</div>
+
+<br/>
