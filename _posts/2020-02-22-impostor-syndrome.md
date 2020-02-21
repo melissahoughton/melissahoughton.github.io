@@ -22,7 +22,7 @@ Impostor syndrome has other names: imposter syndrome (alternate spelling), impos
 Whatever you want to call it, it is when you feel like a fraud, you are getting away with something, and you do not deserve your achievements nor opportunities, and fear others find out.
 
 ## My Story
-In August 2019, [DDD Syndey](https://www.dddsydney.com.au/) approached me to do their locknote.
+In September 2019, I did the locknote for [DDD Syndey](https://www.dddsydney.com.au/).
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">It&#39;s our pleasure to introduce our locknote speaker, <a href="https://twitter.com/meliss_houghton?ref_src=twsrc%5Etfw">@meliss_houghton</a>, part of the fabulous <a href="https://twitter.com/DDDPerth?ref_src=twsrc%5Etfw">@DDDPerth</a> crew!<br><br>Melissa will be sharing her experience dealing with impostor syndrome, which I&#39;m sure many of us have experienced.<br><br>Don&#39;t forget your 🎫! <a href="https://t.co/lDfDMhpJnP">https://t.co/lDfDMhpJnP</a></p>&mdash; DDD Sydney (@dddsydney) <a href="https://twitter.com/dddsydney/status/1169014429666750466?ref_src=twsrc%5Etfw">September 3, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
