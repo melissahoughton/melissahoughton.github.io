@@ -33,7 +33,9 @@ author:
   name: Melissa Houghton
   url: https://melissahoughton.dev
   avatar: /assets/images/headshot.jpg # path or url of avatar image (square)
-  bio: Senior Developer | Community Engager | Leader
+  bio: >
+    Melissa is a Senior Developer at Telstra Purple who does application development in Angular and .Net Core.
+    Originally from California, Melissa loves to travel and get involved in the community.
   email: # melissahoughton@outlook.com
   facebook: # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter: meliss_houghton # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
