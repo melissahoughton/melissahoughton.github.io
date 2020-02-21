@@ -161,7 +161,7 @@ A few years later, when I wanted to move to Melbourne, I applied to Senior posit
 
 If you see potential in others, encourage them. Reach out, be a mentor, provide feedback and help them to reflect on their accomplishments.
 
-## How can we battle against it?
+## How Can We Battle Against It?
 Impostor syndrome can be beneficial! We can use it as motivation!
 
 Turn the negative self-doubt into a challenge. Prove the internal monologue saying you are not good enough wrong. Even if it was some sort of prank to get you into that position, it is not a very good one if you do it confidently and you do it well.
@@ -183,6 +183,6 @@ The battle with impostor syndrome is an ongoing one. Just remember to recognise,
 
 ***
 
-## Watch
+## Watch Full Talk
 Watch my full talk, **_Battles of an Impostor_**, from DDD Sydney 2019:
 <div>{%- include extensions/youtube.html id='t2qr64GN8Qo' -%}</div>
