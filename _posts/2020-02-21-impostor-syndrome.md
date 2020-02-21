@@ -21,9 +21,11 @@ Impostor syndrome has other names: imposter syndrome (alternate spelling), impos
 Whatever you want to call it, it is when you feel like a fraud, you are getting away with something, and you do not deserve your achievements nor opportunities, and fear others find out.
 
 ## My Story
-In August 2019, DDD Syndey approached me to do their locknote.
+In August 2019, [DDD Syndey](https://www.dddsydney.com.au/) approached me to do their locknote.
 
-When I first heard that they wanted me for the locknote, I thought it must be a prank!
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">It&#39;s our pleasure to introduce our locknote speaker, <a href="https://twitter.com/meliss_houghton?ref_src=twsrc%5Etfw">@meliss_houghton</a>, part of the fabulous <a href="https://twitter.com/DDDPerth?ref_src=twsrc%5Etfw">@DDDPerth</a> crew!<br><br>Melissa will be sharing her experience dealing with impostor syndrome, which I&#39;m sure many of us have experienced.<br><br>Don&#39;t forget your 🎫! <a href="https://t.co/lDfDMhpJnP">https://t.co/lDfDMhpJnP</a></p>&mdash; DDD Sydney (@dddsydney) <a href="https://twitter.com/dddsydney/status/1169014429666750466?ref_src=twsrc%5Etfw">September 3, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+When I first heard that they wanted *me* for the locknote, I thought it must be a prank!
 
 It was my night last in Perth, before moving to Melbourne. I was leaving my job as a Software Developer at Bankwest, where I had worked for four and a half years. I was about to start a new role as a Senior Developer at Telstra Purple. A company I had always looked up to as employing brilliant people. DDD Perth had just finished, and I was talking to colleagues and friends over a few drinks. It was the last time I would see them and, people were sharing words of encouragement and praise from their time working with me. As kind words were said to me and so much was happening, I was having an intense battle with impostor syndrome.
 
@@ -73,8 +75,7 @@ Graduate students were the subject of several studies I found. The studies found
 
 ### How does Impostor Syndrome Present Itself?
 ![Image](/assets/images/lywcomic.png){:.shadow .image--xxl}
-
-*Comic by [Honey Dill](https://www.iamhoneydill.com/)*{:.small}
+<em style="display: block" class="small" >Comic by [Honey Dill](https://www.iamhoneydill.com/)</em>
 
 
 We so-called impostors have trouble accepting compliments. We make excuses say "they have to say that" and brush it off, not recognising it for what it is.
@@ -103,11 +104,16 @@ How likely is it that someone is going to run up here and pull me off stage beca
 
 Share the feelings! Talk about it! Educate someone whom you think might be experiencing it. We can use conversations to get affirmation from others that it is sensible to feel like an impostor, but our feelings do not reflect the truth.
 
+![BillGatesQuote](/assets/images/BillGates.jpg){:.shadow .image--xxl}
+<em style="display: block" class="small" >[Quote Source](https://www.amazon.com/How-Think-Like-Bill-Gates/dp/1782433759)</em>
+
+Stop comparing yourself to others!
+
 Think, how did you get to where you are; was it luck or was it the hard work and effort you put in?
 
-Someone gave you that role, that job, that opportunity for a reason!
+Someone gave *you* that role, that job, that opportunity for a reason!
 
-You are great for your reasons and talents. They hired you not because they expected you to know everything but because they saw the potential in you.
+You are great for *your* reasons and talents. They hired *you* not because they expected you to know everything but because they saw the potential in *you*.
 
 In reality, most of us don't know what we are doing. I don't know how to write a blog or do a conference talk, yet I am doing it.
 
