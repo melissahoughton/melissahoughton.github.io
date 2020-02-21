@@ -54,6 +54,10 @@
       .notist-button {
         @include clickable($text-color-1, $notist-color);
       }
+
+      .devto-button {
+        @include clickable($text-color-1, $devto-color);
+      }
     }
   }
 
