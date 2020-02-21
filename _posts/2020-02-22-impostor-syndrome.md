@@ -1,6 +1,6 @@
 ---
 title: Battles of an Impostor
-tags: Personal, MentalHealth, SoftSkills
+tags: Career, MentalHealth, SoftSkills
 readtime: 8
 key: impostor-syndrome
 ---
