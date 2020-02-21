@@ -2,6 +2,7 @@
 title: Battles of an Impostor
 tags: Personal, MentalHealth, SoftSkills
 readtime: 8
+key: impostor-syndrome
 ---
 
 **_My battle with impostor syndrome and three steps to help you fight it._**
