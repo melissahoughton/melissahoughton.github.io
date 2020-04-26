@@ -187,3 +187,4 @@ The battle with impostor syndrome is an ongoing one. Just remember to recognise,
 ## Watch Full Talk
 Watch my full talk, **_Battles of an Impostor_**, from DDD Sydney 2019:
 <div>{%- include extensions/youtube.html id='t2qr64GN8Qo' -%}</div>
+

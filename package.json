@@ -1,6 +1,6 @@
 {
   "name": "melissa-houghton-website",
-  "version": "1.0",
+  "version": "1.0.0",
   "author": "Melissa Houghton",
   "license": "MIT",
   "keywords": [
@@ -27,10 +27,10 @@
     "docker-prod:build": "cross-env JEKYLL_ENV=production docker-compose -f ./docker/docker-compose.prod.yml build",
     "docker-prod:serve": "cross-env JEKYLL_ENV=production docker-compose -f ./docker/docker-compose.prod.yml up",
     "default": "bundle exec jekyll serve -H 0.0.0.0 -t",
-    "dev": "bundle exec jekyll serve -H 0.0.0.0 -t --config ./docs/_config.dev.yml",
-    "demo-dev": "bundle exec jekyll serve -H 0.0.0.0 -t --config ./docs/_config.yml",
-    "demo-beta": "cross-env JEKYLL_ENV=beta bundle exec jekyll serve -H 0.0.0.0 -t --config ./docs/_config.yml",
-    "demo-prod": "cross-env JEKYLL_ENV=production bundle exec jekyll serve -H 0.0.0.0 -t --config ./docs/_config.yml",
+    "dev": "bundle exec jekyll serve -H 0.0.0.0 -t --config _config.yml",
+    "demo-dev": "bundle exec jekyll serve -H 0.0.0.0 -t --config _config.yml",
+    "demo-beta": "cross-env JEKYLL_ENV=beta bundle exec jekyll serve -H 0.0.0.0 -t --config _config.yml",
+    "demo-prod": "cross-env JEKYLL_ENV=production bundle exec jekyll serve -H 0.0.0.0 -t --config _config.yml",
     "eslint": "eslint \"_includes/**/*.js\"",
     "eslint-fix": "eslint \"_includes/**/*.js\" --fix",
     "stylelint": "stylelint --syntax scss \"_sass/**/*.scss\"",
