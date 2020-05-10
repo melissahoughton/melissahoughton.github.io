@@ -28,7 +28,7 @@ I hoped that working from home would mean more time to get things done. I would 
 
 We've been working from home now for six weeks. Some days are better than others. One week I was very productive, accomplished all my tasks and was positive about my work. The next, I had trouble concentrating, was not able to focus, felt down and angry at myself for not achieving as much as I thought I should be.
 
-My big plans fell to the waste side as I tried to figure out how to make this all work.
+My big plans fell by the wayside as I tried to figure out how to make this all work.
 
 Many people are worse off than I am, having to look after kids while trying to work, or not able to work at all. I am grateful I am still able to work, but that does not mean it is unchallenging. This pandemic has impacted us all in different ways.
 
