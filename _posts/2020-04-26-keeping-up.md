@@ -34,3 +34,4 @@ Many people are worse off than I am, having to look after kids while trying to w
 
 The purpose of this post is not to be all doom and gloom but instead to tell you that it is ok and you are not alone. Not everyone can accomplish more or learn a new skill. It is ok to have a glass of wine, to have good days and bad, to struggle to keep on top of routine tasks. The conference talks and new skills can wait. Take care of yourself and do what is best for you. **We will get through this.**
 
+***
