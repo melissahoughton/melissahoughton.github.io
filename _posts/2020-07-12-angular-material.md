@@ -6,14 +6,13 @@ key: angular-material
 ---
 
 
-This tutorial will provide an overview on how to get started with [Angular Material](https://material.angular.io/), a UI component library that implements [Material Design](https://material.io/design) in [Angular](https://angular.io/). We will cover how to set up an Angular application to use Angular Material and create content to demonstrate the material components, as seen below.
+This tutorial will provide an overview of how to get started with [Angular Material](https://material.angular.io/), a UI component library that implements [Material Design](https://material.io/design) in [Angular](https://angular.io/). We will cover how to set up an Angular application to use Angular Material and create content to demonstrate the material components, as seen below.
+
+The full code from this tutorial is on my GitHub. Each commit aligns to a step in this post.
+[https://github.com/melissahoughton/angular-material-blog](https://github.com/melissahoughton/angular-material-blog)
 
 
 ![Image](/assets/images/AngularMaterial-IndigoPink.png)
-
-
-The full code from this tutorial can be found on my github. Each commit aligns to a step in this post.
-[https://github.com/melissahoughton/angular-material-blog](https://github.com/melissahoughton/angular-material-blog)
 
 
 # Set up
@@ -65,7 +64,7 @@ We will import all the available components for Angular Material to be ready for
 
 1. Create a folder called `material` in `src\app`.
 
-2. Create a file called `material.module.ts` and copy the below contents into that file. Or copy this material module file from my [github](https://github.com/melissahoughton/material.module/blob/master/material.module.ts) into the folder.
+2. Create a file called `material.module.ts` and copy the below contents into that file. Or copy this material module file from my [GitHub](https://github.com/melissahoughton/material.module/blob/master/material.module.ts) into the folder.
 
 ```typescript
 import { NgModule } from '@angular/core';
