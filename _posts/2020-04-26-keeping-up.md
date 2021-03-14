@@ -1,6 +1,6 @@
 ---
 title: Keeping up in a Pandemic
-tags: Career, MentalHealth, Productivity, Remote
+tags: Career MentalHealth Productivity Remote
 readtime: 2
 key: keeping-up
 ---
