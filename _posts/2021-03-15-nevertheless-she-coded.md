@@ -114,6 +114,7 @@ Women in Tech Communities:
 - [Women Tech Makers](https://www.womentechmakers.com/)
 - [Women In IT WA](https://www.witwa.org.au/)
 - [Muses Code JS](https://musescodejs.org/)
+- [She Codes](https://shecodes.com.au/)
 - [Girls In Tech Australia](https://australia.girlsintech.org/)
 - [Code Like A Girl](https://www.codelikeagirl.com/)
 - [Women in Technology](https://www.wit.org.au/)
