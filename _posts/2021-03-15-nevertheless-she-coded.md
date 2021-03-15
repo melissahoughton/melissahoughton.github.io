@@ -1,7 +1,7 @@
 ---
 title: 'Nevertheless, She Coded'
 tags: SheCoded WomenInTech ChooseToChallenge
-readtime: 4
+readtime: 5
 key: nevertheless-she-coded
 ---
 
