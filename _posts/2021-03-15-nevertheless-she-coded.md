@@ -39,7 +39,7 @@ As a kid, I spent lots of time having fun on the computer. For a middle school p
 
 When it came time to apply for Universities and choose my major, I knew I wanted to get into STEM. Computer Science did not even occur to me as something I would enjoy. I chose Mechanical Engineering because I knew it had a lot of math and science, and my dad was a Mechanical Engineer.
 
-Into my first year, I realised I was not for me. I changed to pure Mathematics, which has always been my favourite subject. Under my Maths degree, I took an Introduction to Java course. We had an assignment to change an image to black and white using code. The visual presentation of the code coming to life made me fall in love with programming.
+Into my first year, I realised it was not for me. I changed to pure Mathematics, which has always been my favourite subject. Under my Maths degree, I took an Introduction to Java course. We had an assignment to change an image to black and white using code. The visual presentation of the code coming to life made me fall in love with programming.
 
 After that, I changed my degree to be both Mathematics and Computer Science. The following summer, I landed an internship as a developer and have never looked back.
 
