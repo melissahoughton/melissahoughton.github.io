@@ -16,7 +16,7 @@
 text_skin: wine-teal # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: tomorrow-night-bright # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url: https://melissahoughton.dev # the base hostname & protocol for your site e.g. https://www.someone.com
-baseurl: # does not include hostname
+baseurl: '' # does not include hostname
 title: Melissa Houghton
 description: > # this means to ignore newlines until "Language & timezone"
   Melissa Houghton's tech blog and more
@@ -34,7 +34,7 @@ author:
   url: https://melissahoughton.dev
   avatar: /assets/images/headshot.jpg # path or url of avatar image (square)
   bio: >
-    Melissa is a Senior Developer at Telstra Purple who does application development in Angular and .Net Core.
+    Melissa is a Lead Consultant at Telstra Purple who does application development in Angular and .NET.
     Originally from California, Melissa loves to travel and get involved in the community.
   email: # melissahoughton@outlook.com
   facebook: # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name

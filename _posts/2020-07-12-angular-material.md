@@ -1,6 +1,6 @@
 ---
 title: Getting Started with Angular Material
-tags: AngularMaterial, UX, WebDev
+tags: AngularMaterial Angular UX WebDev
 readtime: 5
 key: angular-material
 ---
