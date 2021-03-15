@@ -7,8 +7,6 @@ key: nevertheless-she-coded
 
 *In honour of International Women's Day, I [#ChooseToChallenge](https://www.internationalwomensday.com/theme), starting by creating awareness and sharing my journey as a woman in tech.*
 
-//TODO: Photo of me, choose to challenge
-
 ## What Do You Want To Be?
 Adults constantly ask kids what they want to be when they grow up.
 
@@ -31,7 +29,7 @@ My parents supported me in doing what I wanted. They provided me with opportunit
 
 Yet life in tech is not what I would have expected for myself, although looking back, I should have known.
 
-## My Journey into Tech
+## My Journey Into Tech
 *I didn't find tech; tech found me.*
 
 As a kid, I spent lots of time having fun on the computer. For a middle school project, I created an animation about cave dwellers in PowerPoint. In high school, I spent hours customising my MySpace page, which, unbeknownst to me, meant I was working with HTML and CSS.
@@ -76,7 +74,7 @@ I could go on.
 
 Despite my parents best efforts to put the world at my fingertips, society decided to push back. Thankfully, I have been strong and continued on my path. I have continued to ignore all the **bullshit** and do what I love.
 
-## How did I do it?
+## How Did I Do It?
 I got involved in the tech community. There I found likeminded people and networks dedicated to supporting women in tech.
 
 ![Image](/assets/images/she-coded/GirlsDojo.jpeg){:.shadow .image--xxl}
