@@ -1,7 +1,7 @@
 ---
 title: Aloha! Welcome to .NET MAUI
 tags: DotNET CSharp MAUI CrossPlatform
-readtime: 6
+readtime: 5
 key: aloha-maui
 canonical: https://melissahoughton-dev.medium.com/aloha-welcome-to-net-maui-46274235abb9
 ---

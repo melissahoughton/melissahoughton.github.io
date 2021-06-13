@@ -3,6 +3,7 @@ title: Battles of an Impostor
 tags: Career MentalHealth SoftSkills
 readtime: 8
 key: impostor-syndrome
+canonical: https://melissahoughton-dev.medium.com/impostor-syndrome-cfd0e7ff799a
 ---
 
 **_My battle with impostor syndrome and three steps to help you fight it._**
