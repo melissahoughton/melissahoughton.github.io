@@ -3,9 +3,10 @@ title: Aloha! Welcome to .NET MAUI
 tags: DotNET CSharp MAUI CrossPlatform
 readtime: 6
 key: aloha-maui
+canonical: https://melissahoughton-dev.medium.com/aloha-welcome-to-net-maui-46274235abb9
 ---
 
-Aloha! Welcome to .NET MAUI! The all-new .NET Multi-platform App UI (MAUI). Announced at [Microsoft Build 2020](https://news.microsoft.com/build-2020-book-of-news/), Microsoft has evolved Xamarin.Forms and taken the next step in the [.NET unification](hhttps://channel9.msdn.com/Events/Build/2020/BOD106) to give you a cross-platform mobile-first framework for Android, iOS, macOS, and Windows. .NET MAUI will introduce new ways to build applications. Available in [.NET 6](https://dotnet.microsoft.com/download/dotnet/6.0), in preview now!
+Aloha! Welcome to .NET MAUI! The all-new .NET Multi-platform App UI (MAUI). Announced at [Microsoft Build 2020](https://news.microsoft.com/build-2020-book-of-news/), Microsoft has evolved Xamarin.Forms and taken the next step in the [.NET unification](https://channel9.msdn.com/Events/Build/2020/BOD106) to give you a cross-platform mobile-first framework for Android, iOS, macOS, and Windows. .NET MAUI will introduce new ways to build applications. Available in [.NET 6](https://dotnet.microsoft.com/download/dotnet/6.0), in preview now!
 
 ![.NET MAUI](https://melissadevstorage.blob.core.windows.net/melissadevblob/dotnet maui.png)<em class="sub-title center" >.NET MAUI (source: [Microsoft](https://youtu.be/GJ_PaRNDe9E))</em>
 
