@@ -9,7 +9,7 @@ key: keeping-up
 
 What does it mean to __keep up__ during a pandemic? What are we supposed to do? Are we supposed to use this time to learn a new skill? Or do our best to survive, keeping ourselves and others safe?
 
-### If you are having trouble doing the basics, you are not alone.
+### If you are having trouble doing the basics, you are not alone
 
 Throughout this time, I have felt I should be doing more. I see posts of people learning new skills, running live coding streams, and online workshops. They are using the lockdown to their advantage. Meanwhile, I struggle with the day-to-day.
 
@@ -23,8 +23,7 @@ Working from home became mandatory. We all had to adjust to a new way of doing t
 
 I hoped that working from home would mean more time to get things done. I would have more time to write blog posts, conference talks and learn new technologies.
 
-
-### I was wrong.
+### I was wrong
 
 We've been working from home now for six weeks. Some days are better than others. One week I was very productive, accomplished all my tasks and was positive about my work. The next, I had trouble concentrating, was not able to focus, felt down and angry at myself for not achieving as much as I thought I should be.
 

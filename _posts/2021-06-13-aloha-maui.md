@@ -8,7 +8,7 @@ canonical: https://melissahoughton-dev.medium.com/aloha-welcome-to-net-maui-4627
 
 Aloha! Welcome to .NET MAUI! The all-new .NET Multi-platform App UI (MAUI). Announced at [Microsoft Build 2020](https://news.microsoft.com/build-2020-book-of-news/), Microsoft has evolved Xamarin.Forms and taken the next step in the [.NET unification](https://channel9.msdn.com/Events/Build/2020/BOD106) to give you a cross-platform mobile-first framework for Android, iOS, macOS, and Windows. .NET MAUI will introduce new ways to build applications. Available in [.NET 6](https://dotnet.microsoft.com/download/dotnet/6.0), in preview now!
 
-![.NET MAUI](https://melissadevstorage.blob.core.windows.net/melissadevblob/dotnet maui.png)<em class="sub-title center" >.NET MAUI (source: [Microsoft](https://youtu.be/GJ_PaRNDe9E))</em>
+![.NET MAUI](https://melissadevstorage.blob.core.windows.net/melissadevblob/aloha-maui/dotnet-maui.png)<em class="sub-title center" >.NET MAUI (source: [Microsoft](https://youtu.be/GJ_PaRNDe9E))</em>
 
 ## What is .NET MAUI?
 
@@ -24,7 +24,7 @@ The most common descriptor for MAUI is _the evolution of Xamarin.Forms_, but wha
 
 Xamarin is an open-source .NET platform for building iOS, Andriod, macOS, and Windows applications. Introduced in 2011, Xamarin allows you to share business logic across platforms using .NET while creating a native UI for each. Xamarin allows developers to share an average of [90% of their application across platforms](https://docs.microsoft.com/en-us/xamarin/get-started/what-is-xamarin)).
 
-![.NET Mobile Apps with Xamarin](https://melissadevstorage.blob.core.windows.net/melissadevblob/xamarin.png)<em class="sub-title center">.NET Mobile Apps with Xamarin (source: [Microsoft](https://channel9.msdn.com/Events/Build/2020/BOD107))</em>
+![.NET Mobile Apps with Xamarin](https://melissadevstorage.blob.core.windows.net/melissadevblob/aloha-maui/xamarin.png)<em class="sub-title center">.NET Mobile Apps with Xamarin (source: [Microsoft](https://channel9.msdn.com/Events/Build/2020/BOD107))</em>
 
 To help with the overhead of creating native UI's for each platform, we have Xamarin.Forms.
 
