@@ -10,7 +10,7 @@ This tutorial will provide an overview of how to get started with [Angular Mater
 The full code from this tutorial is on my GitHub. Each commit aligns to a step in this post.
 [https://github.com/melissahoughton/angular-material-blog](https://github.com/melissahoughton/angular-material-blog)
 
-![Angular Material](/assets/images/angular-material/AngularMaterial-IndigoPink.png)
+![Angular Material](https://melissadevstorage.blob.core.windows.net/melissadevblob/angular-material/AngularMaterial-IndigoPink.png)
 
 # Set up
 

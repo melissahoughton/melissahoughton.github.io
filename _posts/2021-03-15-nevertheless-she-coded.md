@@ -7,7 +7,7 @@ key: nevertheless-she-coded
 
 _In honour of International Women's Day, I [#ChooseToChallenge](https://www.internationalwomensday.com/theme), starting by creating awareness and sharing my journey as a woman in tech._
 
-![Choose To Challenge](/assets/images/she-coded/ChooseToChallenge.jpg){:.shadow .image--xl .center}
+![Choose To Challenge](https://melissadevstorage.blob.core.windows.net/melissadevblob/she-coded/ChooseToChallenge.jpg){:.shadow .image--xl .center}
 <em class="sub-title center" >Me raising my hand to show I am in and that I commit to #ChooseToChallenge</em>
 
 ## What Do You Want To Be?
@@ -26,7 +26,7 @@ Growing up, I did not conform to the traditionally _girly_ pastimes and often ch
 
 One of my most memorable toys was an [Intel Play QX3 Microscope](https://en.wikipedia.org/wiki/Intel_Play) which could connect to a computer. I would spend hours with it, examining things up close and getting very creative with the software.
 
-![Microscope](/assets/images/she-coded/Microscope.jpg){:.shadow .image--xxl .center}
+![Microscope](https://melissadevstorage.blob.core.windows.net/melissadevblob/she-coded/Microscope.jpg){:.shadow .image--xxl .center}
 <em class="sub-title center">Me with my Intel Play QX3 Microscope, circa 2000</em>
 
 My parents supported me in doing what I wanted. They provided me with opportunities to explore all areas — eventually leading me to find my love for Science, Technology, Engineering and Mathematics (STEM).
@@ -83,7 +83,7 @@ Despite my parents best efforts to put the world at my fingertips, society decid
 
 I got involved in the tech community. There I found likeminded people and networks dedicated to supporting women in tech.
 
-![Bankwest Girls CoderDojo](/assets/images/she-coded/GirlsDojo.jpeg){:.shadow .image--xxl .center}
+![Bankwest Girls CoderDojo](https://melissadevstorage.blob.core.windows.net/melissadevblob/she-coded/GirlsDojo.jpeg){:.shadow .image--xxl .center}
 <em class="sub-title center">Mentors for the Bankwest Girls CoderDojo, April 2018</em>
 
 I surrounded myself with those who did not care what I did. Those who saw past my gender and appreciated my hard work and skills for what they were.

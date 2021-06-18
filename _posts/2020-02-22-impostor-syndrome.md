@@ -84,7 +84,7 @@ Graduate students were the subject of several studies I found. The studies found
 
 ### How does Impostor Syndrome Present Itself?
 
-![Honey Dill Comic](/assets/images/impostor-syndrome/lywcomic.png){:.shadow .image--xxl}
+![Honey Dill Comic](https://melissadevstorage.blob.core.windows.net/melissadevblob/impostor-syndrome/lywcomic.png){:.shadow .image--xxl}
 <em style="display: block" class="small" >Comic by [Honey Dill](https://www.iamhoneydill.com/)</em>
 
 We so-called impostors have trouble accepting compliments. We make excuses say "they have to say that" and brush it off, not recognising it for what it is.
@@ -116,7 +116,7 @@ How likely is it that someone is going to run up here and pull me off stage beca
 
 Share the feelings! Talk about it! Educate someone whom you think might be experiencing it. We can use conversations to get affirmation from others that it is sensible to feel like an impostor, but our feelings do not reflect the truth.
 
-![Bill Gates Quote](/assets/images/impostor-syndrome/BillGates.jpg){:.shadow .image--xxl}
+![Bill Gates Quote](https://melissadevstorage.blob.core.windows.net/melissadevblob/impostor-syndrome/BillGates.jpg){:.shadow .image--xxl}
 <em style="display: block" class="small" >"Bill Gates" by [Sebastian Vital](https://www.flickr.com/photos/155754835@N04/35914109702) / Text added from [original](https://live.staticflickr.com/4321/35914109702_959b7c4691_c.jpg). [Quote Source](https://www.amazon.com/How-Think-Like-Bill-Gates/dp/1782433759).</em>
 
 Stop comparing yourself to others!

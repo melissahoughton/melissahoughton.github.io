@@ -32,7 +32,7 @@ author:
   type: # "person" (default), "organization"
   name: Melissa Houghton
   url: https://melissahoughton.dev
-  avatar: /assets/images/headshot.jpg # path or url of avatar image (square)
+  avatar: https://melissadevstorage.blob.core.windows.net/melissadevblob/about/headshot.jpg # path or url of avatar image (square)
   bio: >
     Melissa Houghton is a Lead Software Engineer at Azenix and a Microsoft MVP in Developer Technologies. Her work is focused on Angular, .NET, and Azure. She has a passion for technology, learning and giving back to the community. She frequents tech events, is an international conference speaker, loves to travel and learn.
   email: # melissahoughton@outlook.com
