@@ -38,7 +38,7 @@ Microsoft aims to create a unified .NET platform, replacing .NET Framework, .NET
 
 Think of .NET MAUI as a new version of Xamarin.Forms. Microsoft has assured us that our Xamarin.Forms skills are transferable.
 
-> Xamarin.Forms developers will hit the ground running with new projects in .NET MAUI, using all the same controls and APIs they have grown to know and love. _[source](https://docs.microsoft.com/en-us/xamarin/get-started/what-is-xamarin-forms)_
+> Xamarin.Forms developers will hit the ground running with new projects in .NET MAUI, using all the same controls and APIs they have grown to know and love. _[source](https://devblogs.microsoft.com/dotnet/introducing-net-multi-platform-app-ui/)_
 
 There will also be tools and guidance to help migrate applications. The team expect to have a version of the .NET Upgrade Assistant that can migrate Xamarin and Xamarin.Forms projects to .NET 6 and .NET MAUI in the [July 2021 Preview 6 release](https://github.com/dotnet/maui/wiki/Roadmap#net-maui-in-net-6-preview-6-july-2021).
 
