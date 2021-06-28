@@ -1,7 +1,7 @@
 ---
 title: Getting Started with .NET MAUI
 tags: DotNET CSharp MAUI CrossPlatform
-readtime:
+readtime: 5
 key: getting-started-maui
 canonical:
 ---
@@ -93,7 +93,7 @@ The two issues in the template application are:
 
 To fix this, we can change the layout from the `StackLayout` in  `MainPage.xaml` to a `VerticalStackLayout`, newly introduced in .NET MAUI and remove each `Grid.Row`.
 
-See this [commit](https://github.com/melissahoughton/GettingStartedMaui/commit/969e1b9946a0b3460348b0774444f26997c2a2cf) on my github for the full details of the change.
+See this [commit](https://github.com/melissahoughton/GettingStartedMaui/commit/969e1b9946a0b3460348b0774444f26997c2a2cf) on my GitHub for the full details of the change.
 
 ### Troubleshooting
 
