@@ -6,9 +6,10 @@ key: getting-started-maui
 canonical:
 ---
 
-> <i class="fas fa-exclamation-circle"></i> .NET MAUI is still in Preview, and the team at Microsoft continuously release changes. Some tools, features, and steps may change or not work as expected.
+<i class="fas fa-exclamation-circle"></i> .NET MAUI is still in Preview, and the team at Microsoft continuously release changes. Some tools, features, and steps mentioned in this post may change.
+{:.warning}
 
-This tutorial provides an overview of how to get started with [.NET MAUI](https://github.com/dotnet/maui), the .NET Multi-platform APP UI (MAUI), a cross-platform framework for creating native mobile and desktop apps using C# and XAML. .NET MAUI is the evolution of Xamarin.Forms and currently available in [Preview 5](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-5/).
+This tutorial provides an overview of how to get started with [.NET MAUI](https://github.com/dotnet/maui), the .NET Multi-platform APP UI (MAUI), a cross-platform framework for creating native mobile and desktop apps. .NET MAUI is the evolution of Xamarin.Forms and currently available in [Preview 5](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-5/).
 
 To find out more about what is .NET MAUI and how it came to be, I recommend reading my blog post [Aloha! Welcome to .NET MAUI](https://melissahoughton.dev/2021/06/13/aloha-maui.html) before continuing with this tutorial.
 
@@ -16,7 +17,7 @@ We will cover:
 
 - Setting up your environment
 - Creating your first .NET MAUI application
-- Adding a feature to the application
+- Writing in C# vs XAML
 
 ## Environment Setup
 
@@ -59,7 +60,7 @@ Once you have installed all that and the `maui-check` succeeds, you are ready to
 
 This guide will use Visual Studio to create our first .NET MAUI application. However, you can also create a new .NET MAUI application from the command line.
 
-In Visual Studio 16.11 Preview 2, select `Create a new project`, then search for `MAUI` or choose `Project Type > MAUI` from the dropdown.
+In Visual Studio 16.11 Preview 2, select `Create a new project`, search for `MAUI` or choose `Project Type > MAUI` from the dropdown.
 
 ![Create project](https://melissadevstorage.blob.core.windows.net/melissadevblob/maui/new-project.png)
 
@@ -80,7 +81,8 @@ The application is a simple Hello World counter app with a button to increase th
 
 Congratulations! You have created and run your first .NET MAUI application!
 
-> <i class="fas fa-exclamation-circle"></i> At the time of writing, there are a few bugs in the layout of the template application. [(issue #1382)](https://github.com/dotnet/maui/issues/1382)
+<i class="fas fa-exclamation-circle"></i> At the time of writing, there are a few bugs in the layout of the template application. [(issue #1382)](https://github.com/dotnet/maui/issues/1382)
+{:.warning}
 
 ### Fix the layout issues
 
@@ -89,9 +91,9 @@ The two issues in the template application are:
 - Image does not show
 - Numbers with multiple digits are cut off at the first digit
 
-To fix this, we can change the layout from the `StackLayout` to a `VerticalStackLayout`, newly introduced in .NET MAUI and remove each `Grid.Row`.
+To fix this, we can change the layout from the `StackLayout` in  `MainPage.xaml` to a `VerticalStackLayout`, newly introduced in .NET MAUI and remove each `Grid.Row`.
 
-Checkout this [commit](https://github.com/melissahoughton/GettingStartedMaui/commit/969e1b9946a0b3460348b0774444f26997c2a2cf) on my github for the full details of the change.
+See this [commit](https://github.com/melissahoughton/GettingStartedMaui/commit/969e1b9946a0b3460348b0774444f26997c2a2cf) on my github for the full details of the change.
 
 ### Troubleshooting
 
@@ -105,10 +107,143 @@ To fix this, disable XAML Hot Reload in Visual Studio, follow the instructions i
 
 See the Microsoft documentation here: <https://github.com/dotnet/core/blob/main/release-notes/6.0/known-issues.md#preview-5>
 
-I expect the team will continue to work through all the [issues](https://github.com/dotnet/maui/issues) leading up to General Availablity in November.
+I expect the team will continue to work through all the [issues](https://github.com/dotnet/maui/issues) leading up to General Availability in November.
 
-## Adding a Feature
+## Using C# instead of XAML
 
-Let's add our first feature.
+As a C# developer with little experience using Xamarin and XAML, I am most excited about the ability to define pages in .NET MAUI applications using C#. The existing examples and templates get you started using the traditional XAML based approach, carried over from Xamarin.Forms. In Xamarin.Forms, XAML is used to define the visual contents and works with a C# code-behind file. In .NET MAUI, you now have the option of using fluent C# or XAML to define the visual contents of a page.
 
-// TODO
+To translate the template from XAML to C#, follow the steps below or get the complete source code from my GitHub: <https://github.com/melissahoughton/GettingStartedMaui>
+
+### Steps
+
+To use fluent C# to define the UI of the template .NET MAUI app, we will change:
+
+- App
+- MainPage
+- Startup
+
+_Note: The two projects in the template (.NET MAUI and WinUI) share the App, MainPage, and Startup files. Any changes will automatically be reflected across both._
+
+1. Delete `App.xaml` and the code-behind `App.xaml.cs`
+
+    _Note: In Visual Studio, the code-behind file is nested under the `App.xaml`. Deleting a XAML file in Visual Studio automatically deletes the associated code-behind._
+
+2. Create a new class called `App.cs` with the below content
+
+    ```csharp
+    using Microsoft.Maui;
+    using Microsoft.Maui.Controls;
+    using Microsoft.Maui.Graphics;
+    using System.Collections.Generic;
+
+    namespace GettingStartedMaui
+    {
+        public class App : IApplication
+        {
+            List<IWindow> _windows = new List<IWindow>();
+            public IReadOnlyList<IWindow> Windows => _windows.AsReadOnly();
+
+            public App(IImageSourceServiceConfiguration imageConfig)
+            {
+                imageConfig.SetImageDirectory("Assets");
+            }
+
+            public IWindow CreateWindow(IActivationState activationState)
+            {
+                var window = new Window(new MainPage());
+                _windows.Add(window);
+                return window;
+            }
+        }
+    }
+    ```
+
+3. Add the Extension Service Provider Factory to the app configuration in `Startup.cs` to enable dependency injection for the `ImageSourceServiceConfiguration` used in the step above.
+
+    ```C#
+    appBuilder.UseMicrosoftExtensionsServiceProviderFactory();
+    ```
+
+4. Delete `MainPage.xaml` and the code-behind `MainPage.xaml.cs`
+
+5. Create a new class called `MainPage.cs` with the below content
+
+    ```csharp
+    using Microsoft.Maui;
+    using Microsoft.Maui.Controls;
+    using Microsoft.Maui.Graphics;
+
+    namespace GettingStartedMaui
+    {
+        public partial class MainPage : ContentPage
+        {
+            public MainPage()
+            {
+                BackgroundColor = Color.FromArgb("#512bdf");
+
+                var verticalStack = new VerticalStackLayout() { Spacing = 20 };
+
+                verticalStack.Add(new Label
+                {
+                    Text = "Hello, World!",
+                    FontSize = 32,
+                    HorizontalOptions = LayoutOptions.CenterAndExpand,
+                    TextColor = Colors.White
+                });
+                SemanticProperties.SetHeadingLevel((BindableObject)verticalStack.Children[verticalStack.Children.Count - 1], SemanticHeadingLevel.Level1);
+
+                verticalStack.Add(new Label
+                {
+                    Text = "Welcome to .NET Multi-platform App UI",
+                    FontSize = 16,
+                    HorizontalOptions = LayoutOptions.Center,
+                    TextColor = Colors.White
+                });
+
+                var counterLabel = new Label
+                {
+                    Text = "Current count: 0",
+                    FontSize = 18,
+                    FontAttributes = FontAttributes.Bold,
+                    HorizontalOptions = LayoutOptions.Center,
+                    TextColor = Colors.White
+                };
+
+                var button = new Button
+                {
+                    Text = "Click me",
+                    HorizontalOptions = LayoutOptions.Center,
+                    TextColor = Colors.White,
+                    BackgroundColor = Color.FromArgb("#2b0b98"),
+                    Padding = new Thickness(14, 10)
+                };
+
+                var count = 0;
+                button.Clicked += (sender, args) =>
+                {
+                    count++;
+                    counterLabel.Text = $"Current count: {count}";
+                };
+
+                verticalStack.Add(counterLabel);
+                verticalStack.Add(button);
+                verticalStack.Add(new Image { Source = "dotnet_bot.png", WidthRequest = 300, HorizontalOptions = LayoutOptions.Center });
+
+                Content = new ScrollView
+                {
+                    Padding = 30,
+                    Content = verticalStack
+                };
+            }
+        }
+    }
+    ```
+
+6. Clean and rebuild the project
+
+You now are using fluent C# with your .NET MAUI application!
+
+Take a look at the [.NET MAUI GitHub](https://github.com/dotnet/maui) for future updates and news on what is next with .NET MAUI. *Mahalo!*
+
+---
