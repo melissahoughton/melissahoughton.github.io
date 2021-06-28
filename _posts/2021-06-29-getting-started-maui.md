@@ -3,7 +3,7 @@ title: Getting Started with .NET MAUI
 tags: DotNET CSharp MAUI CrossPlatform
 readtime: 5
 key: getting-started-maui
-canonical:
+canonical: https://melissahoughton-dev.medium.com/getting-started-net-maui-dc3522df6de3
 ---
 
 <i class="fas fa-exclamation-circle"></i> .NET MAUI is still in Preview, and the team at Microsoft continuously release changes. Some tools, features, and steps mentioned in this post may change.
