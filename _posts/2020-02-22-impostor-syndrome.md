@@ -26,7 +26,7 @@ Whatever you want to call it, it is when you feel like a fraud, you are getting 
 
 ## My Story
 
-In September 2019, I did the locknote for [DDD Syndey](https://www.dddsydney.com.au/).
+In September 2019, I did the locknote for [DDD Sydney](https://www.dddsydney.com.au/).
 
 <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">It&#39;s our pleasure to introduce our locknote speaker, <a href="https://twitter.com/meliss_houghton?ref_src=twsrc%5Etfw">@meliss_houghton</a>, part of the fabulous <a href="https://twitter.com/DDDPerth?ref_src=twsrc%5Etfw">@DDDPerth</a> crew!<br><br>Melissa will be sharing her experience dealing with impostor syndrome, which I&#39;m sure many of us have experienced.<br><br>Don&#39;t forget your 🎫! <a href="https://t.co/lDfDMhpJnP">https://t.co/lDfDMhpJnP</a></p>&mdash; DDD Sydney (@dddsydney) <a href="https://twitter.com/dddsydney/status/1169014429666750466?ref_src=twsrc%5Etfw">September 3, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -34,7 +34,7 @@ When I first heard that they wanted _me_ for the locknote, I thought it must be 
 
 It was my night last in Perth, before moving to Melbourne. I was leaving my job as a Software Developer at [Bankwest](https://www.bankwest.com.au/), where I had worked for four and a half years. I was about to start a new role as a Senior Developer at [Telstra Purple](https://purple.telstra.com.au/). A company I had always looked up to as employing brilliant people. [DDD Perth](https://dddperth.com/) had just finished, and I was talking to colleagues and friends over a few drinks. It was the last time I would see them and, people were sharing words of encouragement and praise from their time working with me. As kind words were said to me and so much was happening, I was having an intense battle with impostor syndrome.
 
-It was during this battle that Michele from [YOW](https://yowconference.com/), who was sponsoring the talk, approached to tell me they wanted me to do the locknote at DDD Syndey!
+It was during this battle that Michele from [YOW](https://yowconference.com/), who was sponsoring the talk, approached to tell me they wanted me to do the locknote at DDD Sydney!
 
 My brain immediately jumped to thinking it must be some sort of conspiracy. No way colleagues I admired and people in the tech community that I looked up to, thought this highly of me. My subconscious was telling me that they must be up to something.
 
