@@ -4,16 +4,8 @@
 
 @import
     "skins/{{ site.text_skin | default: site.data.variables.default.text_skin }}",
-    "skins/highlight/{{ site.highlight_theme | default: site.data.variables.default.highlight_theme }}"
-;
+    "skins/highlight/{{ site.highlight_theme | default: site.data.variables.default.highlight_theme }}",
 
-@import
-    "skins/{{ site.text_skin-dark | default: site.data.variables.default.text_skin }}",
-    "skins/highlight/{{ site.highlight_theme-dark | default: site.data.variables.default.highlight_theme }}"
-    (prefers-color-scheme: dark)
-;
-
-@import
     "common/variables",
     "common/function",
     "common/classes",
