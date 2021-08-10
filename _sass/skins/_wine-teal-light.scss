@@ -1,0 +1,92 @@
+///
+// Skin: Wine Teal Light
+// Author: Melissa Houghton
+// Email: melissahoughton@outlook.com
+///
+
+
+$pink: #d10e7c;
+$light-wine: #b87f9f;
+$wine: #501F3A;
+$dark-wine: #230315;
+
+$off-white: #eee;
+
+$light-teal: #58b9b5;
+$teal: #289c96;
+$medium-teal: #217272;
+$dark-teal: #00161f;
+$extra-dark-teal: #03080e;
+
+
+// main colors
+$main-color-1: $wine;
+$text-color-1: $dark-wine;
+
+$main-color-2: $pink;
+$text-color-2: $teal;
+
+$main-color-3: $light-teal;
+$text-color-3: $extra-dark-teal;
+
+$main-color-theme-light: $off-white;
+$main-color-theme-dark: $extra-dark-teal;
+
+// page background
+$background-color: $off-white;
+
+
+// text colors
+$text-color-theme-light-d: $extra-dark-teal;
+$text-color-theme-light: $dark-teal;
+$text-color-theme-light-l: #000;
+
+$text-color-theme-dark-d: rgba(#fff, .8);
+$text-color-theme-dark: rgba(#fff, .7);
+$text-color-theme-dark-l: rgba(#fff, .5);
+
+$text-color-d:     $text-color-theme-light-d;
+$text-color:       $text-color-theme-light;
+$text-color-l:     $text-color-theme-light-l;
+
+$text-background-color: rgba(#000, .08);
+
+// header and footer colors
+$header-text-color: $text-color-3;
+$header-background: $main-color-3;
+
+$footer-text-color: $text-color-3;
+$footer-background: $main-color-3;
+
+// border and shadow colors
+$border-color: mix(#000, $background-color, 20%);
+$border-color-l: mix(#000, $background-color, 10%);
+$decorate-color: rgba(#000, .1);
+$mask-color: rgba(#fff, .9);
+$select-color: rgba($main-color-1, .5);
+
+// function colors
+$green: #5baa34;
+$blue: #1c7cd4;
+$yellow: #c9771f;
+$red: #da3d45;
+$text-color-function: rgba(#000, .8);
+
+// logo colors
+$mail-color: $light-wine;
+$facebook-color: $light-wine;
+$twitter-color: $light-wine;
+$weibo-color: $light-wine;
+$google-plus-color:$light-wine;
+$telegram-color: $light-wine;
+$medium-color: $light-wine;
+$zhihu-color: $light-wine;
+$douban-color: $light-wine;
+$linkedin-color: $light-wine;
+$github-color: $light-wine;
+$npm-color: $light-wine;
+$notist-color: $light-wine;
+$devto-color: $light-wine;
+
+// highlight colors
+@import "skins/highlight/tomorrow";
