@@ -3,8 +3,8 @@
 ---
 
 @import
-    "skins/{{ site.text_skin | default: site.data.variables.default.text_skin }}",
-    "skins/highlight/{{ site.highlight_theme | default: site.data.variables.default.highlight_theme }}",
+    "skins/{{ site.text_skin-dark | default: site.data.variables.default.text_skin }}",
+    "skins/highlight/{{ site.highlight_theme-dark | default: site.data.variables.default.highlight_theme }}",
 
     "common/variables",
     "common/function",
