@@ -37,7 +37,7 @@ author:
   avatar: https://melissadevstorage.blob.core.windows.net/melissadevblob/about/headshot.jpg # path or url of avatar image (square)
   bio: >
     Melissa Houghton is a Lead Software Engineer at Azenix and a Microsoft MVP in Developer Technologies. Her work is focused on Angular, .NET, and Azure. She has a passion for technology, learning and giving back to the community. She frequents tech events, is an international conference speaker, loves to travel and learn.
-  email: # melissahoughton@outlook.com
+  email: #
   facebook: # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter: meliss_houghton # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo: # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
@@ -46,7 +46,7 @@ author:
   medium: "@melissahoughton-dev" # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
   zhihu: # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   douban: # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
-  linkedin: melissa-houghton # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
+  linkedin: melissahoughton # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
   github: melissahoughton # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm: # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
   notist: melissahoughton # https://noti.st/user_name
